@@ -916,25 +916,19 @@ const perks = [
                 rank: 1,
                 name: 'Local Leader',
                 img: 'local-leader.png',
-                ranks: 3,
+                ranks: 2,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
                         cha: 1,
-                        description: 'As the ruler everyone turns to, you are able to establish supply lines between your settlements, and provisioners can carry equipment to be left at their home or destination.'
+                        description: 'As the ruler everyone turns to, you can build recruitment beacons and settler workstations at your workshop settlements.'
                     },
                     {
                         rank: 2,
                         level: 14,
                         cha: 2,
-                        description: 'You can now fast travel with a provisioner to their home or destination. You can also build stores and workstations at settlements.'
-                    },
-                    {
-                        rank: 3,
-                        level: 29,
-                        cha: 3,
-                        description: 'Your provisioners now carry transponders. Activate the Provisioner Tracker quest in your Pip Boy to view their location on your map.'
+                        description: 'You can build improved workstations and shops.'
                     }
                 ]
             },
