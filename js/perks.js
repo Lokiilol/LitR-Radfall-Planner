@@ -1373,7 +1373,7 @@ const perks = [
             {
                 rank: 7,
                 name: 'Calculated Criticals',
-                img: 'critical-banker',
+                img: 'critical-banker.png',
                 ranks: 4,
                 ranked: [
                     {
