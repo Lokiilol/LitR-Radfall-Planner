@@ -448,7 +448,7 @@ const perks = [
                         description: 'You gain access to Rank 4 gun mods.'
                     },
                     {
-                        rank: 4,
+                        rank: 5,
                         level: 85,
                         per: 8,
                         description: 'Create Rank 5 gun mods.'
